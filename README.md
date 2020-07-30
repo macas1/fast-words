@@ -2,6 +2,9 @@
 * A game where you type words quickly and cannot repeat words 
 * A good mental exercise and harder than you may think
 
+# How to play
+* Clone the repo and run main.py
+
 # Settings (Contained in main.py)
 | Setting  | Description | Default |
 | ------------- | ------------- | ------------- |
